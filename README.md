@@ -1,16 +1,16 @@
-# game_2048
+# 2048 Game App
 
-A new Flutter project.
+A 2048 puzzle game built using Flutter (Dart).
 
-## Getting Started
+## Features
+- Swipe-based tile movement
+- Tile merging logic
+- Score tracking system
+- Restart game option
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About Project
+Developed as a practice project to understand game logic and Flutter UI building.
